@@ -40,6 +40,7 @@
             this.BTN_DameClick.TabIndex = 0;
             this.BTN_DameClick.Text = "Este Boton";
             this.BTN_DameClick.UseVisualStyleBackColor = true;
+            this.BTN_DameClick.Click += new System.EventHandler(this.BTN_DameClick_Click);
             // 
             // CB_Test1
             // 

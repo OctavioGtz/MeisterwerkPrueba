@@ -16,5 +16,10 @@ namespace AplicacionDePruebaMeisterwerk
         {
             InitializeComponent();
         }
+
+        private void BTN_DameClick_Click(object sender, EventArgs e)
+        {
+            // Este es un cambio realizado para Test
+        }
     }
 }
